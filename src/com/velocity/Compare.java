@@ -3,8 +3,8 @@ package com.velocity;
 public class Compare {
 
 	public static void main(String[] args) {
-		int [] a = {2,3,4,5};
-		int [] b = {3,4,5,6};
+		int [] a = {5,6,7,8};
+		int [] b = {1,2,3,4};
 		if (a.length == b.length) {
 			System.out.println("Length is equal");
 		} else {
